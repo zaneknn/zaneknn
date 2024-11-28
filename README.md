@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zaneknn
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Zane Jakuseva
+- 👀 I’m interested in technology, machine learning.
+- 🌱 I’m currently learning python, since i am pursuing bachelor degree in Applied Data science.
+- 💞️ I’m looking to collaborate on many prijects that can bring joy and help to people in need.
 - 📫 How to reach me , zane.knn@gmail.com
 
 <!---
